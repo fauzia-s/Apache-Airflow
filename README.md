@@ -1,2 +1,2 @@
 # Apache-Airflow
-I code snippets I created while learning Airflow.
+The code snippets I created while learning Airflow.
